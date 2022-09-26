@@ -13,6 +13,6 @@ Crie um algoritmo que permita que o usuário entre com um texto, o idioma em que
 <h1>Critérios</h1>
 Você deve utilizar orientação a objetos no seu software. O resultado de cada tradução (junto com a frase original) deve ser guardado em um arquivo que possua no nome a data e horário da tradução (exp: 10-10-18_10:30.txt)
 
-<h1>Critérios</h1>
+<h1>Recursos</h1>
 Para realizar as chamadas Web utilize a Gem Rest Client (documentação): https://github.com/rest-client/rest-client <br>
 Foi utilizado a API da Microsoft de tradução. https://azure.microsoft.com/pt-br/services/cognitive-services/translator/
